@@ -1,0 +1,15 @@
+/Users/yunusemreusta/Desktop/Pratikler/Metotlar/bin/Debug/net6.0/Metotlar
+/Users/yunusemreusta/Desktop/Pratikler/Metotlar/bin/Debug/net6.0/Metotlar.deps.json
+/Users/yunusemreusta/Desktop/Pratikler/Metotlar/bin/Debug/net6.0/Metotlar.runtimeconfig.json
+/Users/yunusemreusta/Desktop/Pratikler/Metotlar/bin/Debug/net6.0/Metotlar.dll
+/Users/yunusemreusta/Desktop/Pratikler/Metotlar/bin/Debug/net6.0/Metotlar.pdb
+/Users/yunusemreusta/Desktop/Pratikler/Metotlar/obj/Debug/net6.0/Metotlar.csproj.AssemblyReference.cache
+/Users/yunusemreusta/Desktop/Pratikler/Metotlar/obj/Debug/net6.0/Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yunusemreusta/Desktop/Pratikler/Metotlar/obj/Debug/net6.0/Metotlar.AssemblyInfoInputs.cache
+/Users/yunusemreusta/Desktop/Pratikler/Metotlar/obj/Debug/net6.0/Metotlar.AssemblyInfo.cs
+/Users/yunusemreusta/Desktop/Pratikler/Metotlar/obj/Debug/net6.0/Metotlar.csproj.CoreCompileInputs.cache
+/Users/yunusemreusta/Desktop/Pratikler/Metotlar/obj/Debug/net6.0/Metotlar.dll
+/Users/yunusemreusta/Desktop/Pratikler/Metotlar/obj/Debug/net6.0/refint/Metotlar.dll
+/Users/yunusemreusta/Desktop/Pratikler/Metotlar/obj/Debug/net6.0/Metotlar.pdb
+/Users/yunusemreusta/Desktop/Pratikler/Metotlar/obj/Debug/net6.0/Metotlar.genruntimeconfig.cache
+/Users/yunusemreusta/Desktop/Pratikler/Metotlar/obj/Debug/net6.0/ref/Metotlar.dll
